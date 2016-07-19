@@ -1,7 +1,6 @@
 var cardClicked;
 var chooseLevelScreen = $("#chooseLevelScreen");
 var chosenLevel;
-var instruction = $("#instructionText");
 var oCradsContainer = $("#cradsContainer");
 var cardFlag;
 var pairsRemoved = [];
@@ -53,7 +52,6 @@ var applauseUrl = "Sounds/applause.wav";
 function levelLayoutCreation(nLevel)
 {
 
-    instruction.removeClass("visibilityH");
 	var nCards;
 	switch (nLevel) {
 		case 1: nCards = 8;
@@ -181,13 +179,12 @@ function backToLevelChoice() {
 		animationScreen.removeClass("displayBlock");
 		animationScreen.addClass("displayNone");
 	}
-	else if (gameScreen.hasClass("displayBlock")) {
+	else if (gameScreen.hasClass("visibilityV")) {
 		pairsRemoved.length = 0;
-		gameScreen.removeClass("displayBlock");
-		gameScreen.addClass("displayBlock");
+		gameScreen.removeClass("visibilityV");
+		gameScreen.addClass("visibilityH");
 	}
 	chooseLevelScreen.removeClass("visibilityH");
-    instruction.addClass("visibilityH");
 }
 
 //~~~~~~~~~ Shuffle current SVG Array               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
