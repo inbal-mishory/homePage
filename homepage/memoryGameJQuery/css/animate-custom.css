@@ -1,0 +1,98 @@
+.animated{
+    -webkit-animation-fill-mode:both;
+	-moz-animation-fill-mode:both;-
+	ms-animation-fill-mode:both;
+	-o-animation-fill-mode:both;
+	animation-fill-mode:both;
+	-webkit-animation-duration:1s;
+	-moz-animation-duration:1s;
+	-ms-animation-duration:1s;
+	-o-animation-duration:1s;
+	animation-duration:1s;
+}
+
+.animated.hinge {
+		-webkit-animation-duration:2s;
+		-moz-animation-duration:2s;
+		-ms-animation-duration:2s;
+		-o-animation-duration:2s;
+		animation-duration:2s;
+}
+
+.rotated{
+    animation-name: rotateIn;
+	-webkit-animation-fill-mode:both;
+	-moz-animation-fill-mode:both;-
+	ms-animation-fill-mode:both;
+	-o-animation-fill-mode:both;
+	animation-fill-mode:both;
+	-webkit-animation-duration:1s;
+	-moz-animation-duration:1s;
+	-ms-animation-duration:1s;
+	-o-animation-duration:1s;
+	animation-duration:1s;
+}
+
+.rotated.hinge {
+		-webkit-animation-duration:infinite;
+		-moz-animation-duration:infinite;
+		-ms-animation-duration:infinite;
+		-o-animation-duration:infinite;
+		animation-duration:infinite;
+}
+
+.rotating {
+	-webkit-animation-name: rotateIn;
+	-moz-animation-name: rotateIn;
+	-o-animation-name: rotateIn;
+	animation-name: rotateIn;
+}
+@-webkit-keyframes rotateIn {
+    0% {
+        -webkit-transform-origin: center center;
+        -webkit-transform: scale(0.1);
+        opacity: 0;
+    }
+    100% {
+        -webkit-transform-origin: center center;
+        -webkit-transform: scale(1);
+        opacity: 1;
+    }
+}
+@-moz-keyframes rotateIn {
+    0% {
+        -moz-transform-origin: center center;
+        -moz-transform: scale(0.1);
+        opacity: 0;
+    }
+
+    100% {
+        -moz-transform-origin: center center;
+        -moz-transform: scale(1);
+        opacity: 1;
+    }
+}
+@-o-keyframes rotateIn {
+    0% {
+        -o-transform-origin: center center;
+        -o-transform: scale(0.1);
+        opacity: 0;
+    }
+    100% {
+        -o-transform-origin: center center;
+        -o-transform: scale(1);
+        opacity: 1;
+    }
+}
+@keyframes rotateIn {
+    0% {
+        transform-origin: center center;
+        transform: scale(0.1);
+        opacity: 0;
+    }
+    100% {
+        transform-origin: center center;
+        transform: scale(1);
+        opacity: 1;
+    }
+}

@@ -1,0 +1,409 @@
+body {
+    font-family: 'Baloo Da', sans-serif;
+	font-size: 16px;
+	cursor: default;
+	background: #135ca8 url('../SVG/launch-day-boom.svg') center center;
+}
+
+#gameHeader {
+    /*position: fixed;
+	top:0px;*/
+	width: 100%;
+	z-index: 10;
+	text-align: center;
+}
+
+h1 {
+	margin-top: 10px;
+    margin-bottom: 0px;
+	color:#f2f2f2;
+	font-weight: 700;
+    font-size: 2.4em;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	text-shadow: -2px 2px 2px #000f4a;
+    filter: dropshadow(color=#ffa060, offx=-2, offy=2);
+    /*-webkit-text-stroke: 1px #555;*/
+}
+
+#instructionText {
+    font-family: Tahoma;
+	color: #f2f2f2;
+	text-shadow: -2px 2px 2px #000f4a;
+	filter: dropshadow(color=#ffa060, offx=-2, offy=2);
+}
+
+#chooseLevelScreen
+{
+	width:100%;
+	height: 800px;
+	cursor: default;
+	position:absolute;
+	/*top:0;*/
+	left:0;
+	z-index:3;
+	/*background-color: #135ca8;*/
+}
+
+#levelText {
+	
+	margin-left: auto;
+	margin-right: auto;
+	background: #135ca8;
+	border: solid 2px #bebebe;
+	border-radius: 10px;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+#levelText p {
+	font-weight:bold;
+	color:#0b4d97;
+	margin-left: auto;
+	margin-right: auto;
+	/*-webkit-text-stroke: 1px #7d7d7d;*/
+	display: block;
+}
+
+#levelText button, button {
+	background: #f2f2f2;
+	border: outset 2px #bebebe;
+	border-radius: 8px;
+	color: #4c85b7;
+	font-size: 0.6em;
+	font-family: 'Alfa Slab One', cursive;
+	cursor: pointer;
+	margin-top: 30px;
+	height: 40px;
+	width: 80px;
+	font-weight: bold;
+	
+}
+
+button {
+	margin-top: 10px;
+	cursor: pointer;
+	width: 180px;
+	color:#4c85b7;
+	font-size: 1.2em;
+	font-family: 'Alfa Slab One', cursive;
+	/*-webkit-text-stroke: 1px #7d7d7d;*/
+}
+
+#levelText button:hover, button:hover {
+  background: #ffca90;
+  color:#f2f2f2;
+}
+
+#gameScreen, #animationScreen {
+	text-align: center;
+}
+
+#animateTest {
+	-webkit-animation-duration: 1s;
+	-moz-animation-duration:1s;
+	-ms-animation-duration:1s;
+	-o-animation-duration:1s;
+	animation-duration:1s;
+    -webkit-animation-delay: 0.3s;
+    -moz-animation-delay: 0.3s;
+    -ms-animation-delay: 0.3s;
+    -o-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+    -webkit-animation-iteration-count: 2;
+    -moz-animation-iteration-count: 2;
+    -ms-animation-iteration-count: 2;
+    -o-animation-iteration-count: 2;
+    animation-iteration-count: 2;
+}
+
+#animateFireworks {
+	-webkit-animation-duration: 1s;
+	-moz-animation-duration:1s;
+	-ms-animation-duration:1s;
+	-o-animation-duration:1s;
+	animation-duration:1s;
+    -webkit-animation-delay: 0.3s;
+    -moz-animation-delay: 0.3s;
+    -ms-animation-delay: 0.3s;
+    -o-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+    -webkit-animation-iteration-count: 1;
+    -moz-animation-iteration-count: 1;
+    -ms-animation-iteration-count: 1;
+    -o-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+}
+
+#animateFireworks.animated {
+	-webkit-animation-duration: 1s;
+	-moz-animation-duration:1s;
+	-ms-animation-duration:1s;
+	-o-animation-duration:1s;
+	animation-duration:1s;
+    -webkit-animation-delay: 0.3s;
+    -moz-animation-delay: 0.3s;
+    -ms-animation-delay: 0.3s;
+    -o-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+    -webkit-animation-iteration-count: 1;
+    -moz-animation-iteration-count: 1;
+    -ms-animation-iteration-count: 1;
+    -o-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+}
+
+#animateFireworksRotate {
+	-webkit-animation-duration: 1s;
+	-moz-animation-duration:1s;
+	-ms-animation-duration:1s;
+	-o-animation-duration:1s;
+	animation-duration:1s;
+    -webkit-animation-delay: 0.3s;
+    -moz-animation-delay: 0.3s;
+    -ms-animation-delay: 0.3s;
+    -o-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+#animateFireworksRotate .rotated {
+	-webkit-animation-duration: infinite;
+	-moz-animation-duration:infinite;
+	-ms-animation-duration:infinite;
+	-o-animation-duration:infinite;
+	animation-duration:infinite;
+    -webkit-animation-delay: 0.3s;
+    -moz-animation-delay: 0.3s;
+    -ms-animation-delay: 0.3s;
+    -o-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+
+#animateTest p {
+	font-size: 35px;
+	font-weight:bold;
+	color:#0b4d97;
+	margin-left: auto;
+	margin-right: auto;
+	/*-webkit-text-stroke: 1px #7d7d7d;*/
+	text-shadow: -3px 3px 3px #000f4a;
+    filter: dropshadow(color=#000f4a, offx=-3, offy=3);
+}
+
+.svgElement {
+	background-color: transparent;
+	position:absolute;
+	top: 36px; 
+	left:26px;
+}
+
+.SVGBurst
+{
+	fill: #94d31b;
+}
+
+#cradsContainer, #animationContainer
+{
+	background-color: #f2f2f2;
+	border: solid 2px #bebebe;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+    text-align :center;
+	position: relative;
+	box-sizing: border-box;
+}
+
+#animationContainer {top:5px;}
+
+#animationScreen {
+	width:100%;
+	height: 800px;
+	cursor: default;
+	position:absolute;
+	top:100px;
+	left:0;
+	z-index:4;
+	/*display: none;*/
+}
+
+#animationScreen div button {
+	margin-top: 15px;
+}
+
+.displayBlock
+{
+	display: block;
+}
+
+.displayNone
+{
+	display: none;
+}
+
+.visibilityH
+{
+	visibility: hidden;
+}
+
+.visibilityV
+{
+	visibility: visible;
+}
+
+/*               --------------------  css scaling animation for the cards     ------------------------------           */
+
+/*               in animate-custom
+
+/*               --------------------  css flip animation for the cards                            ----------           */
+/*               --------------------  flip animation adapted from http://davidwalsh.name/css-flip ----------           */
+/* entire container, keeps perspective */
+.cardContainer {
+    display: inline-block;
+	-webkit-animation-fill-mode:both;
+	-moz-animation-fill-mode:both;
+	ms-animation-fill-mode:both;
+	-o-animation-fill-mode:both;
+	animation-fill-mode:both;
+	-webkit-animation-duration:1s;
+	-moz-animation-duration:1s;
+	-ms-animation-duration:1s;
+	-o-animation-duration:1s;
+	animation-duration:1s;
+}
+
+/* flip speed goes here */
+.flipper {
+	width:100%;
+	height:100%;
+	transition: 0.6s;
+	transform-style: preserve-3d;
+	-webkit-transition: 0.6s;
+	-webkit-transform-style: preserve-3d;
+	-moz-transition: 0.6s;
+	-moz-transform-style: preserve-3d;
+	perspective: 1000;
+	-webkit-perspective: 1000;
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	backface-visibility: hidden;
+	position: absolute;
+	box-sizing: content;
+	top: 0;
+	left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+	z-index: 2;
+	background-image: url("../images/HTML5_Badge_128.png");
+	background-repeat: no-repeat;
+}
+
+/* back, initially hidden pane */
+.back {
+    background-image: url("../images/HTML5_Badge_back.png");
+	background-repeat: no-repeat;
+	transform: rotateY(180deg);
+	-ms-transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(180deg);
+}
+.flip
+{
+	transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(180deg);
+	-ms-transform: rotateY(180deg);
+}
+
+@media only screen and (min-width: 961px){
+    h1 {width:520px; font-size:40px;}
+    #levelText, #cradsContainer, #animationContainer {width: 542px; height: 520px; }
+    #levelText p {font-size: 35px;}
+    .cardContainer {width: 115px; height:115px; margin: 3px; margin-top: 8px;}
+    .front, .back {width: 115px; height: 115px; padding: 0px;background-size: 115px;}
+    .back img {margin-top: 40px;}
+}
+/*@media only screen and (max-width: 960px){
+    h1 {width:520px; font-size:35px;}
+    #levelText, #cradsContainer, #animationContainer {width: 542px; height: 545px;}
+    #levelText {margin-top: 80px; height: 545px;}
+    #levelText p {font-size: 35px;}
+    .cardContainer {width: 120px; height:120px; margin: 3px; margin-top: 8px;}
+    .front, .back {width: 120px; height: 120px; padding: 0px;}
+    .back img {margin-top: 40px;}
+}*/
+@media only screen and (max-width: 800px){
+    h1 {width:520px; font-size:35px;}
+    #levelText, #cradsContainer, #animationContainer {width: 542px; height: 540px;}
+    #levelText {margin-top: 74px; height: 540px;}
+    #levelText p {font-size: 35px;}
+    .cardContainer {width: 120px; height:120px; margin: 3px; margin-top: 8px;}
+    .front, .back {width: 120px; height: 120px; padding: 0px;}
+    .back img {margin-top: 40px;}
+}
+@media only screen and (max-width: 600px){
+    h1 {width:480px; font-size:35px;}
+    #levelText, #cradsContainer, #animationContainer {width: 540px; height: 430px;}
+    #levelText {margin-top: 70px; height: 430px;}
+    #levelText p {font-size: 30px;}
+    .cardContainer {width: 94px; height:94px; margin: 3px; margin-top: 8px;}
+    .front, .back {width: 94px; height: 94px; padding: 0px; background-size: 94px 94px;}
+    .back img {margin-top: 25px;}
+}
+
+@media only screen and (max-width: 480px){
+    h1 {width:460px; font-size:20px;}
+    #levelText, #cradsContainer, #animationContainer {width: 460px; height: 490px;}
+    #levelText {margin-top: 54px; height: 530px;}
+    #levelText p {font-size: 20px;}
+    .cardContainer {width: 104px; height:104px; margin: 3px; margin-top: 8px;}
+    .front, .back {width: 104px; height: 104px; padding: 0px; background-size: 104px 104px;}
+    .back img {margin-top: 26px;}
+}
+@media only screen and (max-width: 380px){
+    h1 {width:350px; font-size:25px;}
+    #levelText, #cradsContainer, #animationContainer {width: 350px; height: 400px;}
+    #levelText {margin-top: 68px; height: 400px;}
+    #levelText p {font-size: 25px;}
+    .cardContainer {width: 75px; height:75px; margin: 3px; margin-top: 8px;}
+    .front, .back {width: 75px; height: 75px; padding: 0px; background-size: 75px 75px;}
+    .back img {margin-top: 15px;}
+}
+@media only screen and (max-width: 320px){
+    h1 {width:290px; font-size:20px;}
+    #levelText, #cradsContainer, #animationContainer {width: 296px; height: 568px;margin-top: 50px;}
+    #levelText p {font-size: 25px;}
+    .cardContainer {width: 80px; height:80px; margin: 6px; margin-top: 8px;}
+    .front, .back {width: 80px; height: 80px; padding: 0px; background-size: 80px 80px;}
+    .back img {margin-top: 18px;}
+}
+@media only screen and (max-width: 240px){
+    /*h1 {-webkit-text-stroke: 0px #555;}*/
+    #levelText, #cradsContainer, #animationContainer {width: 220px; height: 530px;}
+    /*#levelText {margin-top: 14px;}*/
+    #levelText p {font-size: 16px;}
+    .cardContainer {width: 52px; height:52px; margin: 3px; margin-top: 8px;}
+    .front, .back {width: 52px; height: 52px; padding: 0px; background-size: 52px 52px;}
+    .back img {margin-top: 15px; height: 30px;}
+}

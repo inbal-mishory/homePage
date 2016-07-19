@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+		<meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width initial-scale=1 minimum-scale=1 maximum-scale=1 user-scalable=0">
+		<title>Memory Game</title>
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/animate-custom.css">
+        <link href="https://fonts.googleapis.com/css?family=Baloo+Da" rel="stylesheet">
+        <script   src="https://code.jquery.com/jquery-2.2.4.js"   integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="   crossorigin="anonymous"></script>
+        <!-- <script>window.jQuery || document.write('<script src="Js/vendor/jquery-1.9.0.min.js"><\/script>')</script> -->
+		<link href='http://fonts.googleapis.com/css?family=Alfa+Slab+One|Erica+One|Racing+Sans+One|Archivo+Black|PT+Sans+Caption|Oxygen' rel='stylesheet' type='text/css'>
+	</head>
+<body>
+	<div id="gameHeader" class="animated"><h1>HTML5 Memory Game</h1><span class="visibilityH" id="instructionText">tap or click to flip card</span></div>
+	<div id="chooseLevelScreen">
+		<div id="levelText">
+			<p><label>Choose level:</label></p>
+			<p><button onclick="levelLayoutCreation(1)">1</button></p>
+			<p><button onclick="levelLayoutCreation(2)">2</button></p>
+			<p><button onclick="levelLayoutCreation(3)">3</button></p>
+
+		</div>
+	</div>
+	<div id="gameScreen" class="visibilityH">
+		<div id="cradsContainer">
+
+		</div>
+		<div>
+			<button onclick="backToLevelChoice()">Choose level</button>
+		</div>
+	</div>
+	<div id="animationScreen" class="displayNone">
+		<div id="animationContainer">
+			<div id="animateTest" class="animated">
+				<p>Hurray!!</p>
+			</div>
+			<div id="animateFireworks" class="animated">
+				<div id="animateFireworksRotate">
+					<img src="SVG/burst.svg" class="rotated rotateIn">
+					<img src="SVG/burst2.svg" class="rotated rotateIn">
+					<img src="SVG/burst.svg" class="rotated rotateIn">
+					<img src="SVG/burst2.svg" class="rotated rotateIn">
+					<img src="SVG/burst.svg" class="rotated rotateIn">
+					<img src="SVG/burst2.svg" class="rotated rotateIn">
+					<img src="SVG/burst.svg" class="rotated rotateIn">
+					<img src="SVG/burst2.svg" class="rotated rotateIn">
+					<img src="SVG/burst.svg" class="rotated rotateIn">
+					<img src="SVG/burst2.svg" class="rotated rotateIn">
+					<img src="SVG/burst.svg" class="rotated rotateIn">
+					<img src="SVG/burst2.svg" class="rotated rotateIn">
+				</div>
+			</div>
+		</div>
+		<div>
+			<button onclick="backToLevelChoice()">Back</button>
+		</div>
+	</div>
+	<div id="audioTags">
+    	<audio id="multiaudio1">
+    		<source src="Sounds/bubble.wav" type="audio/wave">
+    		<source src="Sounds/bubble.mp3" type="audio/mpeg">
+    		Your browser does not support the audio tag.
+    	</audio>
+		<audio id="multiaudio2" src="Sounds/flipcard.wav" type="audio/wave"></audio>
+		<audio id="multiaudio3" src="Sounds/applause.wav" type="audio/wave"></audio>
+	</div>
+	<script>
+    		WebFontConfig = {
+                google: { families: [ 'Alfa+Slab+One::latin' ] }
+            };
+            (function() {
+                var wf = document.createElement('script');
+                wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+                  '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+                wf.type = 'text/javascript';
+                wf.async = 'true';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(wf, s);
+            })();
+	</script>
+	<script src="js/application.js"></script>
+    </body>
+
+</html>

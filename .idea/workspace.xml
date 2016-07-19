@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="687bf247-c951-4781-a62f-d967242a45a6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/images/HTML5_Badge_128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/images/HTML5_Badge_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/Sounds/applause.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/Sounds/bubble.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/Sounds/bubble.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/Sounds/flipcard.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/images/freeCodeCamp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/images/pdficon_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/images/simpsonMe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/.directory" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/scss/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/scss/_extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/add-square-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/adjust-contrast.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/align-justify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/align-to-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/align-to-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/ambulance.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/anchor-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/android-character-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/angle-arrow-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/angle-arrow-pointing-to-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/angle-pointing-to-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/css/animate-custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/apple-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/js/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/archive-black-box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/arrow-angle-pointing-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/arrow-down-on-black-circular-background.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/arrow-pointing-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/arrow-pointing-right-in-a-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/arrow-pointing-to-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/arrow-pointing-to-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/arrow-up-on-a-black-circle-background.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/arrow-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/arrowhead-pointing-to-the-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/arrowhead-pointing-up-inside-a-square-box-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/arrowheads-pointing-to-the-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/asterisk.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/ban-circle-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/bar-graph-on-a-rectangle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/barcode.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/beaker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/beer-jar-black-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/bell-musical-tool.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/bitbucket-logotype-camera-lens-in-perspective.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/bitbucket-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/bitcoin-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/blank-file.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/bold-text-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/book.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/bookmark-black-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/bookmark-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/branch-with-leaves-black-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/briefcase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/bug.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/building-front.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/bull-horn-announcer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/bullseye.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/burst.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/burst2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/calendar-page-empty.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/calendar-with-spring-binder-and-date-blocks.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/camera-retro.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/caret-arrow-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/caret-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/center-text-alignment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/certificate-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/check-box-empty.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/check-mark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/check-sign-in-a-rounded-black-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/checked-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/checkered-raised-flag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/chevron-arrow-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/chevron-arrow-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/chevron-pointing-to-the-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/chevron-sign-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/chevron-sign-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/chevron-sign-to-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/chevron-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/circle-shape-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/circle-with-an-arrow-pointing-to-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/circular-shape-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/cloud-storage-download.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/cloud-storage-uploading-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/cocktail-glass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/code-fork-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/code.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/images/codeSchool_logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/images/codepen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/coffee-cup-on-a-plate-black-silhouettes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/cog-wheel-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/collapse-window-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/comment-black-oval-bubble-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/comment-white-oval-bubble.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/comments.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/compass-circular-variant.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/computer-tablet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/copy-document.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/correct-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/couple-of-arrows-changing-places.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/credit-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/crop-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/cross-mark-on-a-black-circle-background.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/css-3-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/cursor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/cut.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/dashboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/delivery-truck-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/desktop-monitor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/dollar-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/dot-and-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/double-angle-pointing-to-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/double-left-chevron.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/double-sided-eraser.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/double-strikethrough-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/down-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/download-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/download-to-storage-drive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/dribbble-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/dropbox-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/earth-globe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/edit-interface-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/eject-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/envelope-of-white-paper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/envelope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/euro-currency-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/exchange-arrows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/exclamation-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/exclamation.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/external-link-square-with-an-arrow-in-right-diagonal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/external-link-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/less/extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/eye-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/eye-with-a-diagonal-line-interface-symbol-for-invisibility.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/facebook-logo-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/facebook-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/facetime-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/fast-forward-arrows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/female-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/fighter-jet-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/file.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/film-strip-with-two-photograms.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/filter-tool-black-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/finger-of-a-hand-pointing-to-right-direction.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/fire-extinguisher.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/fire-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/flag-black-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/flickr-website-logo-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/fluffy-cloud-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/folder-closed-black-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/folder-white-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/css/font-awesome-ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/less/font-awesome-ie7.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/scss/font-awesome-ie7.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/font-selection-editor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/font-symbol-of-letter-a.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/fork-and-knife-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/forward-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/four-black-squares.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/foursquare-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/frown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/fullscreen-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/gamepad-console.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/gift-box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/github-character.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/github-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/github-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/gittip-website-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/google-plus-symbol-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/google-plus-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/great-britain-pound.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/group-profile-users.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/half-star-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/hand-finger-pointing-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/hand-pointing-to-left-direction.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/hand-pointing-upward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/hard-drive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/heart-shape-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/heart-shape-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/home.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/homepage.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/horizontal-resize-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/hostpital-building.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/hotel-letter-h-sign-inside-a-black-rounded-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/html-5-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_connectivity1_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_connectivity2_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_deviceAccess1_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_deviceAccess2_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_graphics1_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_graphics2_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_multimedia1_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_multimedia2_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_performance1_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_performance2_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_presentation1_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_presentation2_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_semantics1_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_semantics2_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_storage1_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/html5_storage2_small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/inbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/increase-size-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/indent-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/information-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/information-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/instagram-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/italicize-text.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/js/vendor/jquery-1.9.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/keyboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG/launch-day-boom.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/left-arrow-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/left-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/left-indentation-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/legal-hammer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/lemon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/leter-a-inside-a-black-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/letter-p-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/level-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/light-bulb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/lightning-bolt-shadow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/link-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/linkedin-letters.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/linkedin-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/linux-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/list-on-window.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/list-with-dots.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/listing-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/long-arrow-pointing-to-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/long-arrow-pointing-to-the-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/long-arrow-pointing-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/magic-wand.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/magnifying-glass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/man.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/map-marker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/maxcdn-website-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/medical-kit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/meh-face-emoticon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/microphone-black-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/microphone-off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/minus-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/minus-sign-inside-a-black-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/minus-sign-inside-a-black-rounded-square-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/minus-sign-on-a-square-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/minus-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/mobile-phone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/js/vendor/modernizr-2.6.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/moon-phase-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/move-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/music-headphones.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/music-note-black-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/musical-bell-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/nine-black-tiles.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/numbered-list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/open-folder-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/open-folder.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/open-laptop-computer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/open-padlock-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/open-wrench-tool-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/padlock-unlock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/padlock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/paper-bill.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/paper-clip-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/paper-push-pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/paste-from-clipboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/pause-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/photo-camera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/picture.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/pinterest-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/pinterest-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/plane.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/plant-leaf-with-white-details.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/play-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/play-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/play-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/play-video-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/plus-black-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/plus-sign-in-a-black-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/plus-symbol-in-a-rounded-black-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/power-button-off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/printing-tool.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/puzzle-piece-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/qr-code.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/question-mark-on-a-circular-black-background.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/question-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/quote-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/reduced-volume.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/refresh-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/refresh-page-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/remove-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/remove-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/renren-social-network-of-china-logotype.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/reorder-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/reply-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/reply.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/resize-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/retweet-arrows-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/rewind-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/right-arrow-in-a-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/right-chevron.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/right-quotation-mark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/road-perspective.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/rounded-black-square-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/rss-feed-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/rss-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/rupee-indian.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/save-file-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/screenshot.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/settings.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/share-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/share-post-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/share-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/shield.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/shopping-cart-black-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sign-in.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sign-out-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/signal-bars.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/images/simpsonMe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sitemap.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/skype-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/small-rocket-ship-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/smile.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sort-arrows-couple-pointing-up-and-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sort-by-alphabet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sort-by-attributes-interface-button-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sort-by-attributes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sort-by-numeric-order.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sort-by-order.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sort-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sort-reverse-alphabetical-order.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sort-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/speech-bubbles-comment-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/spinner-of-dots.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/square-shape-shadow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/stack-exchange-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/stack-exchange-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/star-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/star-half-empty.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/star.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/step-backward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/step-forward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/stethoscope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/strikethrough.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/memoryGameJQuery/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/suitcase-with-white-details.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/sun.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/superscript-text-formatting.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/table-grid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/tag-black-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/tags.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/tasks-list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/telephone-handle-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/telephone-symbol-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/terminal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/text-file-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/text-file.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/text-height-adjustment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/text-width.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/thin-arrowheads-pointing-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/three-small-square-shapes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/thumb-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/thumbs-down-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/thumbs-up-hand-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/thumbs-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/ticket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/time.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/tint-drop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/trash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/trello-website-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/trophy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/tumblr-logo-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/tumblr-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/turkish-lire-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/twitter-black-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/twitter-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/two-columns-layout.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/u-shaped-thick-magnet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/umbrella-black-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/underline-text-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/undo-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/unlink-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/up-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/up-chevron-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/upload-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/upload.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/user-md-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/user-shape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/vertical-ellipsis.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/vertical-resizing-option.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/video-play-square-button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/vimeo-square-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/vintage-key-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/vk-social-network-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/volume-off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/volume-up-interface-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/warning-sign-on-a-triangular-background.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/weibo-website-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/wheelchair.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/white-flag-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/windows-logo-silhouette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/x2-symbol-of-a-letter-and-a-number-subscript.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/xing-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/xing-logotype.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/yen-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/youtube-logo-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/youtube-logo-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/youtube-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/zoom-in.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homepage/font-awesomeSVG/zoom-out.svg" />
+    </list>
+    <ignored path="homepage.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="homepage" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.1322751" vertical-offset="38" max-vertical-offset="1710">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="7452">
+              <caret line="1" column="40" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animate-custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/animate-custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1872">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homepage/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="14472">
+              <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/js/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4032" max-vertical-offset="4662">
+              <caret line="224" column="4" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/homepage/memoryGameJQuery/js/application.js" />
+        <option value="$PROJECT_DIR$/homepage/memoryGameJQuery/css/animate-custom.css" />
+        <option value="$PROJECT_DIR$/homepage/css/main.css" />
+        <option value="$PROJECT_DIR$/homepage/memoryGameJQuery/css/style.css" />
+        <option value="$PROJECT_DIR$/homepage/index-testAnim.html" />
+        <option value="$PROJECT_DIR$/homepage/memoryGameJQuery/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="memoryGameJQuery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="memoryGameJQuery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homepage/memoryGameJQuery/SVG" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="687bf247-c951-4781-a62f-d967242a45a6" name="Default" comment="" />
+      <created>1466668468281</created>
+      <option name="number" value="Default" />
+      <updated>1466668468281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="4" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.61961365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15418503" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="1710">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7452">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/animate-custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1872">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="14472">
+          <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/js/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4032" max-vertical-offset="4662">
+          <caret line="224" column="4" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="1710">
+          <caret line="12" column="87" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3952" max-vertical-offset="7452">
+          <caret line="236" column="10" selection-start-line="236" selection-start-column="10" selection-end-line="236" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/animate-custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2034">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="14472">
+          <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/js/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3428" max-vertical-offset="4644">
+          <caret line="224" column="4" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="1710">
+          <caret line="12" column="87" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="7452">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/animate-custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2034">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3239" max-vertical-offset="14220">
+          <caret line="196" column="18" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/js/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3428" max-vertical-offset="4644">
+          <caret line="224" column="4" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="1710">
+          <caret line="12" column="87" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="7452">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/animate-custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2034">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3239" max-vertical-offset="14220">
+          <caret line="196" column="18" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/js/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3428" max-vertical-offset="4644">
+          <caret line="224" column="4" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="1710">
+          <caret line="12" column="87" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="7452">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/animate-custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2034">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3239" max-vertical-offset="14220">
+          <caret line="196" column="18" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/js/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3428" max-vertical-offset="4644">
+          <caret line="224" column="4" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3239" max-vertical-offset="14220">
+          <caret line="196" column="18" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3239" max-vertical-offset="14220">
+          <caret line="194" column="20" selection-start-line="194" selection-start-column="20" selection-end-line="194" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3239" max-vertical-offset="14220">
+          <caret line="194" column="20" selection-start-line="194" selection-start-column="20" selection-end-line="194" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/js/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3428" max-vertical-offset="4644">
+          <caret line="224" column="4" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/animate-custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2034">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="14472">
+          <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="7452">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage/memoryGameJQuery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1322751" vertical-offset="38" max-vertical-offset="1710">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
