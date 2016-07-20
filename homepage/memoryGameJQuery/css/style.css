@@ -221,7 +221,7 @@ button {
 	fill: #94d31b;
 }
 
-#cradsContainer, #animationContainer
+#cardsContainer, #animationContainer
 {
 	background-color: #8bc34a;
 	border: none;
@@ -357,7 +357,7 @@ button {
 
 @media only screen and (max-width: 800px){
     h1 {width:520px; font-size:35px;}
-    #levelText, #cradsContainer, #animationContainer {width: 542px; height: 540px;}
+    #levelText, #cardsContainer, #animationContainer {width: 542px; height: 540px;}
     #levelText {margin-top: 74px; height: 540px;}
     #levelText p {font-size: 35px;}
     .cardContainer {width: 120px; height:120px; margin: 3px; margin-top: 8px;}
@@ -366,7 +366,7 @@ button {
 }
 @media only screen and (max-width: 600px){
     h1 {width:480px; font-size:35px;}
-    #levelText, #cradsContainer, #animationContainer {width: 540px; height: 430px;}
+    #levelText, #cardsContainer, #animationContainer {width: 540px; height: 430px;}
     #levelText {margin-top: 70px; height: 430px;}
     #levelText p {font-size: 30px;}
     .cardContainer {width: 94px; height:94px; margin: 3px; margin-top: 8px;}
@@ -376,7 +376,7 @@ button {
 
 @media only screen and (max-width: 480px){
     h1 {width:460px; font-size:20px;}
-    #levelText, #cradsContainer, #animationContainer {width: 460px; height: 490px;}
+    #levelText, #cardsContainer, #animationContainer {width: 460px; height: 490px;}
     #levelText {margin-top: 54px; height: 530px;}
     #levelText p {font-size: 20px;}
     .cardContainer {width: 104px; height:104px; margin: 3px; margin-top: 8px;}
@@ -385,7 +385,7 @@ button {
 }
 @media only screen and (max-width: 380px){
     h1 {width:350px; font-size:25px;}
-    #levelText, #cradsContainer, #animationContainer {width: 350px; height: 400px;}
+    #levelText, #cardsContainer, #animationContainer {width: 350px; height: 400px;}
     #levelText {margin-top: 68px; height: 400px;}
     #levelText p {font-size: 25px;}
     .cardContainer {width: 75px; height:75px; margin: 3px; margin-top: 8px;}
@@ -394,7 +394,7 @@ button {
 }
 @media only screen and (max-width: 320px){
     h1 {width:290px; font-size:20px;}
-    #levelText, #cradsContainer, #animationContainer {width: 296px; height: 568px;margin-top: 50px;}
+    #levelText, #cardsContainer, #animationContainer {width: 296px; height: 568px;margin-top: 50px;}
     #levelText p {font-size: 25px;}
     .cardContainer {width: 80px; height:80px; margin: 6px; margin-top: 8px;}
     .front, .back {width: 80px; height: 80px; padding: 0px; background-size: 80px 80px;}
@@ -402,7 +402,7 @@ button {
 }
 @media only screen and (max-width: 240px){
     /*h1 {-webkit-text-stroke: 0px #555;}*/
-    #levelText, #cradsContainer, #animationContainer {width: 220px; height: 530px;}
+    #levelText, #cardsContainer, #animationContainer {width: 220px; height: 530px;}
     /*#levelText {margin-top: 14px;}*/
     #levelText p {font-size: 16px;}
     .cardContainer {width: 52px; height:52px; margin: 3px; margin-top: 8px;}

@@ -1,7 +1,7 @@
 var cardClicked;
 var chooseLevelScreen = $("#chooseLevelScreen");
 var chosenLevel;
-var oCradsContainer = $("#cradsContainer");
+var oCardsContainer = $("#cardsContainer");
 var cardFlag;
 var pairsRemoved = [];
 var gameScreen = $("#gameScreen");
@@ -10,7 +10,7 @@ var clickedCards = [];
 var animateTest = $("#animateTest");
 var animateFireworks = $("#animateFireworks");
 
-cradsContainer = $("#cradsContainer");
+cardsContainer = $("#cardsContainer");
 
 	// var flipeUrl = "Sounds/flipcard.wav", flipBuffer;
 	// var bubbleUrl = "Sounds/bubble.mp3", bubbleBuffer;
@@ -78,7 +78,7 @@ function levelLayoutCreation(nLevel)
 		cardContainerObj.id = "cardContainer" +  i;
 		cardContainerObj.className = "cardContainer";
 		cardContainerObj.classList.add("bounceIn");
-		oCradsContainer.append(cardContainerObj);
+		oCardsContainer.append(cardContainerObj);
 		cardContainerObj.innerHTML = "<div class='flipper'>" +
 		"<div class='front'>" +
 		"<\/div>" +
@@ -172,7 +172,7 @@ function playSounds(sound) {
 
 function backToLevelChoice() {
 
-	oCradsContainer.html("");
+	oCardsContainer.html("");
 	nLevel = 0;
 	if (animationScreen.hasClass("displayBlock")) {
 		pairsRemoved.length = 0;
